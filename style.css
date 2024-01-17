@@ -4,7 +4,7 @@ nav{
   align-items: center;
   
 }
-body{
+header, main{
   margin-left: 135px;
   margin-right: 135px;
 }
@@ -261,11 +261,66 @@ margin-right: 55px;
 .features{
   display: flex;
   gap:50px;
+  margin-bottom: 100px;
 }
 
 .hill img{
   width:100%
 }
+
+.footer{
+  background:rgba(19, 19, 24, 0.05);
+  margin: 0;
+}
+
+.footer-title{
+  display: flex;
+  position: relative;
+  left:670px;
+  top:110px;
+
+}
+
+.footer-p{
+  text-align: center;
+  margin-top: 130px;
+}
+.footer-icon{
+  display:flex;
+  position: relative;
+  left:670px;
+  padding-bottom:50px;
+  padding-top:50px;
+}
+.footer-end{
+  font-weight: 300;
+  color:#131318;
+  text-align: center;
+  padding-bottom: 180px;
+  
+}
+.line{
+  width:600px;
+  margin-bottom: 50px;
+}
+
+.offer-btn{
+  display: flex;
+  position:relative;
+  left: 500px;
+  color:#FFF;
+  font-weight: 800;
+  font-size: 2rem;
+  background: #FF5400;
+  border-radius: 1rem;
+  
+}
+
+
+
+
+
+
 
 
 
