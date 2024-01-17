@@ -265,7 +265,10 @@ margin-right: 55px;
 }
 
 .hill img{
-  width:100%
+  width:100%;
+}
+.hill{
+  position:relative;
 }
 
 .footer{
@@ -304,17 +307,7 @@ margin-right: 55px;
   margin-bottom: 50px;
 }
 
-.offer-btn{
-  display: flex;
-  position:relative;
-  left: 500px;
-  color:#FFF;
-  font-weight: 800;
-  font-size: 2rem;
-  background: #FF5400;
-  border-radius: 1rem;
-  
-}
+
 
 
 
